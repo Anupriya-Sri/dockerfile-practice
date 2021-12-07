@@ -1,2 +1,2 @@
 # dockerfile-practice
-The repo is a demo for maing dockerfilw
+The repo is a demo for maing dockerfile
