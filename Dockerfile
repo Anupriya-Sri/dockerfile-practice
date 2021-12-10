@@ -4,7 +4,7 @@
 # Define base image
 FROM jupyter/scipy-notebook
 
-# Set up root user
+# Set-up root user
 USER root
 
 # Install docopt package
